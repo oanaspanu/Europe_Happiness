@@ -38,7 +38,7 @@ PCA was applied to reduce dimensionality and identify key factors driving happin
 
 ### 2. Hierarchical Cluster Analysis (HCA)
 
-![hierarchical_classification](dataOUT/PCA/hierarchical_classification.png)
+![hierarchical_classification](dataOUT/HCA/hierarchical_classification.png)
 
 HCA was used to group countries with similar happiness profiles. The **dendrogram revealed two main clusters:**
 
