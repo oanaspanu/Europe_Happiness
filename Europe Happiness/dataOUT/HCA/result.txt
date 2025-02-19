@@ -1,3 +1,0 @@
-threshold = 1.8773004707042373
-junction with max. diff = 41
-no. of junctions = 43
